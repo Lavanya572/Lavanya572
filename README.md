@@ -1,8 +1,14 @@
 ## Hi there 👋
 
 <!--
-**Lavanya572/Lavanya572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+
+##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ 
+ <div>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lavanya572" alt="Gift's LangStat" />
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
