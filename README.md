@@ -20,7 +20,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="left">Tech Stack:</h2>
 <div>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="50" height="50" alt="Git" />
+<!-- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width="50" height="50" alt="Git" />
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" width="50" height="50" alt="Java" />
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg" width="50" height="50" alt="MySQL" />
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg" width="50" height="50" alt="PostgreSQL" />
@@ -36,13 +36,13 @@
  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/notepad%2B%2B.png" width="50" height="50" alt="Notepad++" />
  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="50" height="50" alt="Vscode" />
  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="50" height="50" alt="HTML" />
- <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="50" height="50" alt="CSS" />
+ <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="50" height="50" alt="CSS" /> -->
 
-<p align="left">
+ <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,azure,go,git,kubernetes,docker,postgres,mysql,css,html,eclipse,githubactions,powershell,postman,windows,gitlab,idea,hibernate,maven,gradle,vscode,c,vim,apple" width="50%" height="50%"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,azure,go,git,kubernetes,docker,postgres,mysql,css,html,eclipse,githubactions,powershell,postman,windows,gitlab,idea,hibernate,maven,gradle,vscode,c,vim,apple" width="80%" height="80%"/>
   </a>
-</p>
+</p> 
 </div>
 
 Here are some ideas to get you started:
