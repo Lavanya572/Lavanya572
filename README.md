@@ -17,7 +17,7 @@ About
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 **How to reach me:** ...
 -  **Exploring :** AWS, Automation, DevOps
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ About
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,azure,go,git,kubernetes,docker,postgres,mysql,css,html,eclipse,githubactions,powershell,postman,windows,gitlab,idea,hibernate,maven,gradle,vscode,c,vim,apple" width="80%" height="80%"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,spring,azure,go,git,kubernetes,docker,postgres,mysql,css,html,eclipse,githubactions,powershell,postman,windows,gitlab,idea,hibernate,maven,gradle,vscode,c,vim,apple" width="80%" height="80%"/>
   </a>
 </p> 
 </div>
