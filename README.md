@@ -43,7 +43,7 @@ About
 
  <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,rails,java,spring,azure,go,git,kubernetes,docker,ruby, postgres,mysql,css,html,eclipse,githubactions,powershell,windows,gitlab,idea,hibernate,maven,gradle,vscode,c,vim" width="80%" height="80%"/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,rails,java,spring,azure,go,git,kubernetes,docker,ruby, postgres,mysql,css,html,eclipse,githubactions,powershell,windows,gitlab,idea,hibernate,maven,gradle,vscode,c" width="80%" height="80%"/>
   </a>
 </p> 
 </div>
