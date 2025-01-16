@@ -4,21 +4,21 @@
 ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
 <p align="center">
- <!-- <img width=440 src="https://github-readme-streak-stats.herokuapp.com?user=Lavanya572&theme=gruvbox-duo&&card_width=480&hide_border=true&border_radius=4.4" alt="GitHub Streak" /> -->
- <img width=360 src="https://github-readme-stats.vercel.app/api?username=Lavanya572&theme=gruvbox&hide_border=true&rank_icon=github&show_icons=true&bg_color=00000000" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lavanya572&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" /> 
-
-</p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<-- <p About
+ <!-- <img width=440 src="https://github-readme-streak-stats.herokuapp.com?user=Lavanya572&theme=gruvbox-duo&&card_width=480&hide_border=true&border_radius=4.4" alt="GitHub Streak" />   About
  - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 **How to reach me:** ...
--  **Exploring :** AWS, Automation, DevOps  </p> -->
+-  **Exploring :** AWS, Automation, DevOps  -->
+ <img width=360 src="https://github-readme-stats.vercel.app/api?username=Lavanya572&theme=gruvbox&hide_border=true&rank_icon=github&show_icons=true&bg_color=00000000" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lavanya572&layout=compact&theme=gruvbox&hide_border=true&bg_color=00000000" /> 
+
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2 align="left">Tech Stack:</h2>
